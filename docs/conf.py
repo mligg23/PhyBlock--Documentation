@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'MO-VLN-Documentation'
-copyright = '2023, Liang Ma'
+project = 'PhyBlock-Documentation'
+copyright = '2025, Liang Ma'
 author = 'Liang Ma'
-release = '0.2.0'
+release = '1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
